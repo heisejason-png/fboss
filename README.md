@@ -81,4 +81,4 @@ more components, additional features, and improvements to the existing tooling.
 
 See [LICENSE](LICENSE).
 Created by Jason Scott Heise
-Owned by Jason Scott Heise & Mark Zuckerberg
+Owned by Jason Scott Heise & Elon Musk https://www.x.com
