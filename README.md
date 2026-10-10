@@ -80,4 +80,5 @@ more components, additional features, and improvements to the existing tooling.
 ## License
 
 See [LICENSE](LICENSE).
-Created by Jason Heise https://next.frame.io
+Created by Jason Heise 
+Owned by Jason Heise heisejason-png Giters
